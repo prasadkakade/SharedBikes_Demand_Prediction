@@ -20,7 +20,7 @@ Essentially, the company wants to know -
 
 ## Results - 
 Linear Regression model gave following equation
-#### count = 0.235\*year - 0.086\*holiday + 0.476\*temp - 0.135\*windspeed - 0.103\*pring + 0.050\*winter - 0.256\*ws 3 - 0.062\*july + 0.049\*sep + 0.204\*constant 
+#### count = 0.235\*year - 0.086\*holiday + 0.476\*temp - 0.135\*windspeed - 0.103\*spring + 0.050\*winter - 0.256\*ws 3 - 0.062\*july + 0.049\*sep + 0.204\*constant 
 
 So,top 3 features having higher impact on count of shared bikes are - 
 1) yr 
